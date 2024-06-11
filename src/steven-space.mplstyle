@@ -1,0 +1,34 @@
+# Steven's mpl style file for the MPhil Coursework Submissions
+
+figure.figsize : 6, 4 
+font.size : 15
+font.family : sans-serif
+font.sans-serif : Gill Sans
+
+lines.linewidth : 1.4
+lines.markersize: 6
+errorbar.capsize : 3
+
+
+
+axes.labelsize : 15
+
+axes.xmargin : 0.0   # Set margin for x-axis
+axes.ymargin : 0.05   # Set margin for y-axis
+
+
+xtick.labelsize : 15
+ytick.labelsize : 15
+xtick.top : True
+ytick.right : True
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+
+
+legend.fontsize : 15
+legend.frameon : False
+
+figure.autolayout : True
+
+text.usetex : False
